@@ -1,0 +1,17 @@
+requests
+pandas
+numpy
+jupyter
+jupyterlab
+ipywidgets
+plotly
+shapely
+cdsapi
+xarray
+cfgrib
+ipyleaflet
+scipy
+matplotlib
+statsmodels
+pycountry
+entsoe-py
